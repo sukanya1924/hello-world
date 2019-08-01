@@ -1,2 +1,3 @@
 # hello-world
-Just sample repository
+Hi Github!!
+  This is the test msg.
